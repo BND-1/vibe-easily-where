@@ -2,7 +2,7 @@
 
 你有没有想过，没有电脑也能完成需求，我用手机完成了一个完整的功能开发  "从需求分析到代码实现，全程没有打开电脑。旁边的乘客可能以为我在看电子书，其实我正在和 Claude Code 结对编程。
 
-先给大家看效果，vibe on 地铁 ：![1732b69779bebbd623da4b5e3cdf2d74](G:\xwechat_files\wxid_34zwsleyo8u322_6cb4\temp\RWTemp\2026-01\b7fc0dca4752f7f8f3bc2367014b015f\1732b69779bebbd623da4b5e3cdf2d74.jpg)
+先给大家看效果，vibe on 地铁 ：![地铁](G:\xwechat_files\wxid_34zwsleyo8u322_6cb4\temp\RWTemp\2026-01\b7fc0dca4752f7f8f3bc2367014b015f\1732b69779bebbd623da4b5e3cdf2d74.jpg)
 
 
 ![Image 2](https://mmbiz.qpic.cn/mmbiz_jpg/onUpicncef3p0TiaicozzLSCfdXd0jax3blTMRYE2XSWZIjVPkr0quuicrU84sRHWY55DfMAJulo5t95vsZhL26rQg/640?wx_fmt=jpeg)
